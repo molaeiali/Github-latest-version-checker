@@ -1,0 +1,25 @@
+{
+  "name": "github-latest-version-checker",
+  "version": "1.0.0",
+  "description": "Checks tag of latest release of each github repo in ./urls file ",
+  "main": "checker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/molaeiali/Github-latest-version-checker.git"
+  },
+  "keywords": [
+    "GitHub"
+  ],
+  "author": "Ali Molaei",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/molaeiali/Github-latest-version-checker/issues"
+  },
+  "homepage": "https://github.com/molaeiali/Github-latest-version-checker#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
